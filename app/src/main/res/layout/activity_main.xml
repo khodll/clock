@@ -25,7 +25,7 @@
                 layout="@layout/citychunk"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="50dp" />
+                android:layout_marginTop="60dp" />
 
             <include
                 android:id="@+id/city2"
@@ -70,6 +70,8 @@
             android:layout_marginBottom="16dp"
             android:text="World Clock"
             android:textColor="@android:color/background_light"
+            android:textSize="30sp"
+            android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

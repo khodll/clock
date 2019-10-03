@@ -16,7 +16,7 @@
             android:layout_width="65dp"
             android:layout_height="28dp"
             android:layout_marginTop="16dp"
-            android:background="#FFCCBC"
+            android:background="#FBE9E7"
             android:onClick="onClickHide"
             android:text="-"
             android:textSize="24sp"
@@ -50,6 +50,7 @@
             android:layout_marginTop="50dp"
             android:text="@string/city"
             android:textSize="24sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
