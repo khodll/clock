@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClockApp</string>
+    <string name="button12">12 hour</string>
+    <string name="button24">24 hour</string>
+    <string name="city">Sydney</string>
+    <string name="city2">London</string>
+    <string name="city3">Tokyo</string>
+    <string name="city4">Shanghai</string>
+    <string name="city5">New York City</string>
+    <string name="time12">10:30am</string>
+</resources>
